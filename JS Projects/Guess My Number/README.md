@@ -1,5 +1,7 @@
 This is a number guessing game project using HTML, CSS and JavaScript.
 
+Click here 👉[geekytaurus-guess-my-number](https://twitter.com/msgeekytaurus/status/1429874905194057734) for visual overview of this project
+
 #### Below is the default view of the project:
 ![guess default vieq](images/guess_default_view.png)
 
